@@ -1,0 +1,6 @@
+{
+  "name": "Kajazoma Abidjan - Gestion Restaurant, Réservations & Stocks",
+  "description": "Application intégrée de gestion des réservations, plan de salle, stocks d'économat et personnel pour le restaurant d'art Kajazoma à Abidjan (Cocody).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
